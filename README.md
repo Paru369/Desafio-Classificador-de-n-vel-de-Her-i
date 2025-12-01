@@ -24,10 +24,15 @@ Este é um programa em **JavaScript** que classifica o nível de um herói basea
 
 ```bash
 npm install prompt-sync
+```
+
 Execute o programa:
+
 
 ```bash
 node heroi.js
+```
+
 Insira os dados solicitados:
 Nome do herói
 Quantidade de XP
@@ -36,3 +41,4 @@ O programa exibirá a mensagem final, por exemplo:
 
 ```bash
 O Herói de nome Arthur está no nível de Ouro
+```
